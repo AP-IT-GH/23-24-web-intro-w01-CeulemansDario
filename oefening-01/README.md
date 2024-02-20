@@ -12,3 +12,4 @@
 - [ ] Maak het volgende voorbeeld na met behulp van HTML. Gebruik hiervoor de elementen `title`, `h1`, `h2` en `p`.
 
 ![voorbeeld](image.png)
+
